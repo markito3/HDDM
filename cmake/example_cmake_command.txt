@@ -1,0 +1,1 @@
+cmake3 -DXERCESCROOT=$XERCESCROOT -DXercesC_DIR=`pwd`/../cmake -DXercesC_VERSION=$XERCES_C_VERSION ..
